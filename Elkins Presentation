@@ -1,4 +1,3 @@
-
 <!doctype html>
 <html lang="en">
 <head>
@@ -119,5 +118,3 @@ details { margin-top:10px; } summary { cursor:pointer; color:var(--accent); font
 </section>
 </main>
 </body></html>
-
-
